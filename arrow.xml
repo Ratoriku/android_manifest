@@ -24,7 +24,7 @@
   <project path="tools/extract-utils" name="android_tools_extract-utils" remote="arrow" />
 
   <!-- infrastructure repos -->
-  <project path="infrastructure/devices" name="arrow_infrastructure_devices" remote="arrow" />
+  <!--<project path="infrastructure/devices" name="arrow_infrastructure_devices" remote="arrow" />-->
 
   <!-- vendor repos -->
   <project path="vendor/arrow" name="android_vendor_arrow" remote="arrow" />

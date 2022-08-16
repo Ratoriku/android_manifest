@@ -14,10 +14,10 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
-  <remote  name="arrow"
+  <!--<remote  name="arrow"
            fetch="https://github.com/ArrowOS"
            review="https://review.arrowos.net/"
-           revision="refs/heads/arrow-13.0" />
+           revision="refs/heads/arrow-13.0" />-->
 
   <remote  name="arrow-12.1"
            fetch="https://github.com/ArrowOS"
@@ -34,7 +34,7 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
 
-  <remote  name="arrow-staging"
+  <remote  name="arrow"
            fetch="https://github.com/ArrowOS-Next"
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
